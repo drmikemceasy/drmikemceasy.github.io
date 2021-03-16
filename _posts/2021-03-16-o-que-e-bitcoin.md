@@ -1,7 +1,7 @@
 ---
 layout: post
-title: O que è Bitcoin
-subtitle: Uma simples explicação porque è que Bitcoin è a Arca de Noé para fortunas, grandes ou pequenas.
+title: O que é Bitcoin
+subtitle: Uma simples explicação porque é que Bitcoin é a Arca de Noé para fortunas, grandes ou pequenas.
 tags: [Bitcoin]
 comments: true
 ---
@@ -84,7 +84,7 @@ O novo sistema monetário vai ser oprimido e controlado e tempos difíceis se av
 
 Eu e milhões de pessoas acreditam a Bitcoin vai continuar a valorizar, afinal quem tem Bitcoin tem a sua fortuna protegida de governos e organizações que querem controlar o dinheiro.
 
-Cada vez mais pessoas e instituições compram bitcoin, isso é um atestado à fé que temos de a Bitcoin ser a arca de Noè para as nossas fortunas, grandes ou pequenas. Jà somos mais de 22 milhōes.
+Cada vez mais pessoas e instituições compram bitcoin, isso é um atestado à fé que temos de a Bitcoin ser a arca de Noé para as nossas fortunas, grandes ou pequenas. Jà somos mais de 22 milhōes.
 
 ![Numero de carteiras de Bitcoin](/assets/img/carteiras-bitcoin-activas.png)
 
