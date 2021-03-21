@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como guardar Bitcoin e Criptpmoedas
+title: Como guardar Bitcoin e Criptomoedas
 subtitle: Algumas maneiras de guardar as tuas Bitcoins e outras criptomoedas
 tags: [Bitcoin]
 comments: true
